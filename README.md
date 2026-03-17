@@ -20,10 +20,10 @@ ERP-TechDistrib-SARL/
 │
 ├── Partie1-Analyse-conception/
 │   ├── rapport_partie1.docx
-│   ├── diagramme_cas_utilisation.svg
-│   ├── diagramme_classes.svg
-│   ├── diagramme_sequence.svg
-│   └── diagramme_activites.svg
+│   ├── diagramme_cas_utilisation.png
+│   ├── diagramme_classes.png
+│   ├── diagramme_sequence.png
+│   └── diagramme_activites.png
 │
 ├── Partie2-Installation-configuration/
 │   ├── docker-compose.yml
