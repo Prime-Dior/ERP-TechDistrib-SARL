@@ -18,14 +18,14 @@ automatiser et intégrer ses processus métier (commercial, stock, comptabilité
 ```
 ERP-TechDistrib-SARL/
 │
-├── Analyse-conception/
+├── Partie1-Analyse-conception/
 │   ├── rapport_partie1.docx
 │   ├── diagramme_cas_utilisation.svg
 │   ├── diagramme_classes.svg
 │   ├── diagramme_sequence.svg
 │   └── diagramme_activites.svg
 │
-├── Installation-configuration/
+├── Partie2-Installation-configuration/
 │   ├── docker-compose.yml
 │   ├── rapport_partie2.docx
 │   └── captures/
@@ -36,7 +36,7 @@ ERP-TechDistrib-SARL/
 │       ├── 05_module_rh.png
 │       └── 06_donnees_test.png
 │
-├── Deploiement-tests/
+├── Partie3-Deploiement-tests/
 │   ├── rapport_partie3.docx
 │   ├── scenarios_tests/
 │   │   ├── test1_creer_client.md
@@ -71,7 +71,7 @@ git clone https://github.com/<votre-compte>/ERP-TechDistrib-SARL.git
 cd ERP-TechDistrib-SARL
 
 # Démarrer les conteneurs
-cd Installation-configuration
+cd Partie2-Installation-configuration
 docker-compose up -d
 
 # Accéder à Odoo
@@ -82,14 +82,14 @@ docker-compose up -d
 
 ## Contenu par partie
 
-**Analyse & Conception**
+**Partie 1 — Analyse & Conception**
 Analyse des besoins, modélisation UML (cas d'utilisation, classes, séquence, activités)
 et planification Scrum du projet.
 
-**Installation & Configuration**
+**Partie 2 — Installation & Configuration**
 Déploiement d'Odoo via Docker Compose, configuration des modules CRM, Inventaire,
 Comptabilité et Ressources Humaines, avec données de test.
 
-**Déploiement & Tests**
+**Partie 3 — Déploiement & Tests**
 Exécution des 6 scénarios de test fonctionnels, captures d'écran des résultats
 et réponses aux questions de réflexion sur les ERP.
