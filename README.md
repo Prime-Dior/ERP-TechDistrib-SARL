@@ -80,7 +80,7 @@ docker-compose up -d
 
 **Partie 1 — Analyse & Conception**
 Analyse des besoins, modélisation UML (cas d'utilisation, classes, séquence, activités)
-et planification Scrum du projet.
+et planification du projet selon le cycle en V.
 
 **Partie 2 — Installation & Configuration**
 Déploiement d'Odoo via Docker Compose, configuration des modules CRM, Inventaire,
