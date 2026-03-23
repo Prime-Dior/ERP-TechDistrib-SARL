@@ -10,8 +10,4 @@ Déploiement d'Odoo via Docker et configuration des modules pour TechDistrib SAR
 ## Captures d'écran (`captures/`)
 
 - `01_odoo_accueil.png` — Page d'accueil après installation
-- `02_module_crm.png` — Configuration du module CRM / Ventes
-- `03_module_inventaire.png` — Configuration du module Inventaire
-- `04_module_comptabilite.png` — Configuration du module Comptabilité
-- `05_module_rh.png` — Configuration du module Ressources Humaines
-- `06_donnees_test.png` — Données de test saisies dans le système
+- `02_modules_installés.png` — Modules installés 
