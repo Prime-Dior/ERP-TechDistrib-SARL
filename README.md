@@ -28,9 +28,8 @@ ERP-TechDistrib-SARL/
 ├── Partie2-Installation-configuration/
 │   ├── docker-compose.yml
 │   ├── rapport_partie2.docx
-│   └── captures/
-│       ├── 01_odoo_accueil.png
-│       ├── 02_modules_installés.png
+│   ├── 01_odoo_accueil.png
+│   ├── 02_modules_installés.png
 │      
 │
 ├── Partie3-Deploiement-tests/
