@@ -30,11 +30,8 @@ ERP-TechDistrib-SARL/
 │   ├── rapport_partie2.docx
 │   └── captures/
 │       ├── 01_odoo_accueil.png
-│       ├── 02_module_crm.png
-│       ├── 03_module_inventaire.png
-│       ├── 04_module_comptabilite.png
-│       ├── 05_module_rh.png
-│       └── 06_donnees_test.png
+│       ├── 02_modules_installés.png
+│      
 │
 ├── Partie3-Deploiement-tests/
 │   ├── rapport_partie3.docx
