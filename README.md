@@ -23,7 +23,6 @@ ERP-TechDistrib-SARL/
 │   ├── diagramme_cas_utilisation.png
 │   ├── diagramme_classes.png
 │   ├── diagramme_sequence.png
-│   └── diagramme_activites.png
 │
 ├── Partie2-Installation-configuration/
 │   ├── docker-compose.yml
